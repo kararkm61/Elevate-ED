@@ -1,0 +1,46 @@
+# ToDo List 🗒
+- [ ] Preparing a project for use
+- [ ] preparing README.md file
+- [ ] Preparing the Main.py file
+- [ ] Preparing a project library ( Lib Folder )
+	- [ ] Preparing Path Manager section of libary ( PM.py File)
+		- [ ] preparing program paths 
+		- [ ] preparing user paths
+	- [ ] preparing Education section of libary ( ED.py File)
+		- [ ] preparing school class
+			- [ ] preparing units class
+			- [ ] preparing builder class
+		- [ ] preparing classroom class
+			- [ ] preparing units class
+			- [ ] preparing builder class
+		- [ ] preparing teacher class
+			- [ ] preparing units class
+			- [ ] preparing builder class
+		- [ ] preparing student class
+			- [ ] preparing units class
+			- [ ] preparing builder class
+	- [ ] preparing tools section of libary ( Tools.py )
+		- [ ] preparing setting class
+		- [ ] preparing console class
+		- [ ] preparing language class
+		- [ ] preparing log class
+	- [ ] preparing web side section of libary ( WebSide.py )
+		- [ ] preparing url class
+		- [ ] preparing user class 
+		- [ ] preparing web manager class
+- [ ] Preparing a project data folder ( Data Folder )
+	- [ ] Preparing language files ( Lang Folder )
+		- [ ] English language file ( English.toml File)
+		- [ ] Arabic language file ( Arabic.toml File )
+	- [x] Preparing a project data files ( Program Folder)
+		- [x] Setting data file ( Setting.json File )
+		- [x] User data file ( User.json File )
+	- [ ] Preparing running files ( Run Folder )
+		- [ ] linux running file ( Linux.sh File )
+		- [ ] MacOS running file ( Darwin.zsh File )
+		- [ ] Windows running file ( Win32.cmd File)
+	- [ ] Preparing Units files ( Units Folder )
+		- [ ] Schools Units file ( School.json File )
+		- [ ] Classrooms Units file ( Classroom.json File )
+		- [ ] Teachers Units file ( Teacher.json file )
+		- [ ] Students Units file ( Student.json file )

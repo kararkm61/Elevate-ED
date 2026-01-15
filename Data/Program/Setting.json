@@ -4,5 +4,5 @@
      "clear": true,
      "color": true,
      "flush": true,
-     "time-flush": 0.01
+     "flush-time": 0.01
 }
